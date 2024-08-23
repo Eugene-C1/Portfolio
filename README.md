@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ***
 
 # Python
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Area | Project Description | 
 |---|---|---|
 | 🤖 [Discord Bot](https://github.com/Eugene-C1/CS50-Final-Project) | Programming | This is my final project submitted for the course CS50's Introduction to Programming with Python. The main feature of the bot is that it allows users to notify them when a YouTuber is streaming. |  
 
