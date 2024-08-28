@@ -10,9 +10,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # SQL
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🦠 [Mask Usage Impact on Fatality Rate During Pandemic](https://github.com/Eugene-C1/Mask-Usage-Impact-on-Fatality-Rate-During-Pandemic) | Data cleaning, data analysis | I analyzed the US Covid-19 cases & the impact of mask usage on fatality rate during the pandemic. | 
-| 🏢 [Covid19 Layoffs Data](https://github.com/Eugene-C1/COVID19-Layoffs-Data-SQL) | Data cleaning, data analysis | I analyzed the layoffs during Pandemic 2020 to early 2023 & analyzed and determined the top 5 companies and industry with the most layoffs per year|  
 | 📹 [Beginner to Advance SQL Course](https://github.com/Eugene-C1/Beginner-Advance-SQL-Course) | SQL | Completed Alex The Analyst's YouTube course, covering fundamental to advanced SQL concepts. |  
+| 🧠 [8-Week SQL Challenge](https://github.com/Eugene-C1/8-Week-SQL-Challenge) | Data cleaning, data analysis, data transformation | These are case studies from [8 Week SQL Challenge](https://8weeksqlchallenge.com/) that showcase my proficiency and skills in SQL and demonstrate my problem-solving skills  |  
+| 🏢 [Covid19 Layoffs Data](https://github.com/Eugene-C1/COVID19-Layoffs-Data-SQL) | Data cleaning, data analysis | I analyzed the layoffs during Pandemic 2020 to early 2023 & analyzed and determined the top 5 companies and industry with the most layoffs per year|  
 
 ***
 
